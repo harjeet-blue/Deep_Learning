@@ -24,6 +24,6 @@ Encoders and decoders are 2 major techniques in Natural Language Processing usin
 Encoder: Maps (sensory) input data to a different (often lower dimensional, compressed) feature representation.
 Decoder: Maps the feature representation back into the input data space.
 
- ![Neural-Network](https://zitaoshen.rbind.io/project/machine_learning/how-to-build-your-own-neural-net-from-the-scrach/featured.png)
+ ![Neural-Network](https://miro.medium.com/max/1000/0*uq2_ZipB9TqI9G_k)
  
 **To know more about FMNIST dataset | [ENCODER-DECODER](https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346)**
