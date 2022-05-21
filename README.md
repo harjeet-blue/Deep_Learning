@@ -23,5 +23,5 @@ Deep feedforward networks, also often called feedforward neural networks, or mul
 Encoders and decoders are 2 major techniques in Natural Language Processing using Deep Learning.
 Encoder: Maps (sensory) input data to a different (often lower dimensional, compressed) feature representation.
 Decoder: Maps the feature representation back into the input data space.
- ![Encoder-Decoder](https://www.researchgate.net/profile/Thilo-Stadelmann/publication/333754131/figure/fig2/AS:771478807121921@1560946289222/The-structure-of-a-deep-autoencoder-with-encoder-decoder-and-the-code-bottleneck-in.jpg)
+ ![Encoder-Decoder](https://www.researchgate.net/profile/Chitralekha-Bhat/publication/317559243/figure/fig2/AS:531269123805186@1503675837486/Deep-Autoencoder-DAE.png)
 **To know more about FMNIST dataset | [ENCODER-DECODER](https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346)**
