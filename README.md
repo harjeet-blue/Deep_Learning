@@ -15,7 +15,7 @@ The Fashion MNIST dataset is an alternative to the standard MNIST dataset. Inste
 
 
 ## Feed forward neural network 
-Deep feedforward networks, also often called feedforward neural networks, or multilayer perceptrons(MLPs), are the quintessential deep learning models. The goal of a feedforward network is to approximate some function f*. For example, for a classiﬁer, y = f*(x) maps an input x to a category y. A feedforward network deﬁnes a mapping y = f(x;θ) and learns the value of the parameters θ that result in the best function approximation.(Reference)
+Deep feedforward networks, also often called feedforward neural networks, or multilayer perceptrons(MLPs), are the quintessential deep learning models. The goal of a feedforward network is to approximate some function f*. For example, for a classiﬁer, y = f*(x) maps an input x to a category y. A feedforward network deﬁnes a mapping y = f(x;θ) and learns the value of the parameters θ that result in the best function approximation.
  ![Neural-Network](https://zitaoshen.rbind.io/project/machine_learning/how-to-build-your-own-neural-net-from-the-scrach/featured.png)
 **To know more about FMNIST dataset | [FEED-FORWARD](https://towardsdatascience.com/deep-learning-feedforward-neural-network-26a6705dbdc7)**
 
@@ -23,5 +23,7 @@ Deep feedforward networks, also often called feedforward neural networks, or mul
 Encoders and decoders are 2 major techniques in Natural Language Processing using Deep Learning.
 Encoder: Maps (sensory) input data to a different (often lower dimensional, compressed) feature representation.
 Decoder: Maps the feature representation back into the input data space.
- ![Encoder-Decoder](https://www.researchgate.net/profile/Chitralekha-Bhat/publication/317559243/figure/fig2/AS:531269123805186@1503675837486/Deep-Autoencoder-DAE.png)
+
+ ![Neural-Network](https://zitaoshen.rbind.io/project/machine_learning/how-to-build-your-own-neural-net-from-the-scrach/featured.png)
+ 
 **To know more about FMNIST dataset | [ENCODER-DECODER](https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346)**
